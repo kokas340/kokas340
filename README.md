@@ -16,5 +16,5 @@ I'm Jack, a 20 years old Software Developer from Portugal, studying Software Eng
 
 ## Contact
 - [Portfolio](https://jackspinola.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/jackspinola/)
+- [LinkedIn](https://www.linkedin.com/in/jack-spinola-0a835927b/)
 
