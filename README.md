@@ -9,7 +9,7 @@ I'm Jack, a 21 years old Software Developer from Portugal/UK, studying Software 
 - 🎟️ Developing some projects
 
 ## Skills
-- 👨‍💻 JavaScript, PHP, Java, HTML, CSS
+- 👨‍💻 JavaScript, TypeScript, C#, PHP, Java, HTML, CSS
 - ⚙️ React, React Native, Node.js, CodeIgniter, SpringBoot, Next.js(Learning)
 - 💽 MySQL, SQL, PostgreSQL
 - 👁️ API's, Agile, REST, Android Native, AWS, GitHub, Scrum, Web Developer
