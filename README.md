@@ -1,6 +1,6 @@
 
 ## Hey! 👋
-I'm Jack, a 22 years old Software Developer from Portugal/UK, studying Software Engineering and living in Denmark.
+I'm Jack, a 23 years old Software Developer from Portugal/UK, studying Software Engineering and living in Denmark.
 
 - 🧭 Graduated in 2021 at high school with a 3-year course in Software Development
 
